@@ -2,7 +2,7 @@
 using System.IO;
 
 
-namespace test_exercise1
+namespace copy_folder
 {
     class Program
     {

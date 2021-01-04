@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\test-exercise1\\test-exercise1\\copy_folder.csproj",
+      "projectUniqueName": "E:\\copy_folder\\copy_folder\\copy_folder.csproj",
       "projectName": "copy_folder",
-      "projectPath": "E:\\test-exercise1\\test-exercise1\\copy_folder.csproj",
+      "projectPath": "E:\\copy_folder\\copy_folder\\copy_folder.csproj",
       "packagesPath": "C:\\Users\\csgos\\.nuget\\packages\\",
-      "outputPath": "E:\\test-exercise1\\test-exercise1\\obj\\",
+      "outputPath": "E:\\copy_folder\\copy_folder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

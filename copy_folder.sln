@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "copy_folder", "test-exercise1\copy_folder.csproj", "{995B0D0B-3968-41A4-946F-DE671E8E7466}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "copy_folder", "copy_folder\copy_folder.csproj", "{5F76FE4E-9AFB-423A-9358-02FC1FACE39F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{995B0D0B-3968-41A4-946F-DE671E8E7466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{995B0D0B-3968-41A4-946F-DE671E8E7466}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{995B0D0B-3968-41A4-946F-DE671E8E7466}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{995B0D0B-3968-41A4-946F-DE671E8E7466}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F76FE4E-9AFB-423A-9358-02FC1FACE39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F76FE4E-9AFB-423A-9358-02FC1FACE39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F76FE4E-9AFB-423A-9358-02FC1FACE39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F76FE4E-9AFB-423A-9358-02FC1FACE39F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {642802A8-E881-46FD-97E8-157E75290C58}
+		SolutionGuid = {57B98BAF-356E-4B99-BB24-AA69A16639BA}
 	EndGlobalSection
 EndGlobal
